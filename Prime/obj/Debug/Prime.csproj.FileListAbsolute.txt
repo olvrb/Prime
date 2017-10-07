@@ -1,0 +1,7 @@
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\bin\Debug\Prime.exe.config
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\bin\Debug\Prime.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\bin\Debug\Prime.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\obj\Debug\Prime.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\obj\Debug\Prime.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Prime\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
