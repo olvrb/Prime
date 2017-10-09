@@ -64,9 +64,7 @@ namespace Prime
                 }
             }
         }
-
-        //public static System.IO.StreamWriter PrimeFile = new System.IO.StreamWriter(@"C:\Users\oliver.boudet\PrimeNumbers.txt", true);
-                        
+        
         public static System.IO.StreamWriter NonPrimeFile = new System.IO.StreamWriter(@"C:\Users\oliver.boudet\NonPrimeNumbers.txt", false);
 
         public static string ifPrimeFactors(System.Numerics.BigInteger number, string whereToWrite)
