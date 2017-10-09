@@ -13,7 +13,6 @@ namespace Prime
         static void Main(string[] args)
         {
             File.Delete(@"C:\Users\oliver.boudet\PrimeNumbers.txt");
-            //File.Delete(@"C:\Users\oliver.boudet\NonPrimeNumbers.txt");
             Console.WriteLine("Where do you want to write the prime numbers and factors? (txt or console)");
             string whereToWrite = Console.ReadLine();
 
@@ -68,7 +67,7 @@ namespace Prime
 
         //public static System.IO.StreamWriter PrimeFile = new System.IO.StreamWriter(@"C:\Users\oliver.boudet\PrimeNumbers.txt", true);
                         
-        public static System.IO.StreamWriter NonPrimeFile = new System.IO.StreamWriter(@"C:\Users\oliver.boudet\NonPrimeNumbers.txt", true);
+        public static System.IO.StreamWriter NonPrimeFile = new System.IO.StreamWriter(@"C:\Users\oliver.boudet\NonPrimeNumbers.txt", false);
 
         public static string ifPrimeFactors(System.Numerics.BigInteger number, string whereToWrite)
         {
